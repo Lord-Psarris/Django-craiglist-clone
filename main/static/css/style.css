@@ -1,0 +1,19 @@
+nav {
+    background-color: #2C4C7D !important;
+}
+
+body {
+background-color: #FAF8F8;
+color: #2C4C7D;
+}
+
+.card {
+    height: 400px; /* Your height here */
+    overflow: hidden;
+}
+
+.card-image {
+    height: 250px; /* Your height here */
+    overflow: hidden;
+    color: #2C4C7D !important;
+}
